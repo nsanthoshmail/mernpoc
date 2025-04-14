@@ -1,0 +1,10 @@
+# .prettierignore
+node_modules
+dist
+coverage
+*.log
+build
+
+# Add specific files or patterns you want Prettier to ignore
+# e.g., build/
+# e.g., public/vendor/

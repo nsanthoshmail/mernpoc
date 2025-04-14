@@ -1,0 +1,8 @@
+
+{
+   
+    "security": {
+      "bcryptSaltRounds": 12 
+    }
+
+  }

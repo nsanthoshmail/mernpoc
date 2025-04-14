@@ -1,3 +1,0 @@
-# mernpoc
-
-Hello world
