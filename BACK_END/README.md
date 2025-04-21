@@ -134,3 +134,5 @@
 └── tsconfig.json # TypeScript compiler options (use paths for aliases like @core/*, @modules/\_)
 
 tsc --init
+
+hello welcoe
